@@ -16,7 +16,10 @@ class Header extends Component {
                         <div className="col m6">
                             <a href="">
                                 Creative Studios of Atlanta
-                                274 North Main Street, Studio A
+                                <br/>
+                                274 North Main Street, 
+                                <br/>
+                                Studio A
                                 Alpharetta, GA 30009
                             </a>
                         </div>
